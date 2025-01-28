@@ -1,3 +1,4 @@
+# .github
 # EGA Soluções Industriais
 
 Bem-vindo ao repositório oficial da **EGA Soluções Industriais**! 🚀
