@@ -18,8 +18,7 @@ A **EGA Soluções Industriais** é especializada no desenvolvimento de soluçõ
 ## Contato
 
 📧 **E-mail**: [contato@ega.com.br](mailto\:contato@ega.com.br)\
-📍 **Endereço**: [Endereço da empresa, se desejar incluir]\
-🔗 **LinkedIn**: [LinkedIn da empresa, se houver]
+🔗 **LinkedIn**: [[LinkedIn da empresa](https://br.linkedin.com/company/egasolucoesindustriais)]
 
 Obrigado por visitar nosso GitHub! 💡⚙️
 
